@@ -1,16 +1,20 @@
-## Hi there 👋
+🌸 Hey there, I’m so glad you’re here!
 
-<!--
-**SahityaSangaru6183/SahityaSangaru6183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub!  
+I’m passionate about growing as a developer, exploring new tools like **Power BI, Python, SQL, Streamlit**, and building AI-powered and data-driven projects. Here, you’ll find:
 
-Here are some ideas to get you started:
+🧩 Projects I’ve built using tools like **React, FastAPI, Hugging Face**, and more  
+📊 Visual dashboards and reports I created with **Power BI** to simplify complex data  
+📚 Things I’ve learned while exploring **machine learning, data analysis**, and coding  
+🚀 Real-world use cases turned into fun, interactive apps and dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Whether you're here to find useful code, explore my journey, or get inspired —  
+**you’re in the right place!** 🧠💡
+
+---
+
+🔗 **Let’s connect, learn, and grow — one repo at a time.**  
+You bring the curiosity, I’ll bring the code 🍪💻
+
+📬 [LinkedIn](https://www.linkedin.com/in/sahitya-sangaru-41a0b7315/)  
+📧 Email: sahityasangarau@gmail.com
