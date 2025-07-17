@@ -5,7 +5,7 @@ I’m passionate about growing as a developer, exploring new tools like **Power 
 
 🧩 Projects I’ve built using tools like **React, FastAPI, Hugging Face**, and more  
 📊 Visual dashboards and reports I created with **Power BI** to simplify complex data  
-📚 Things I’ve learned while exploring **machine learning, data analysis**, and coding  
+📚 Things I’ve learned while exploring **machine learning,Deep Learning, data analysis**, and coding  
 🚀 Real-world use cases turned into fun, interactive apps and dashboards
 
 Whether you're here to find useful code, explore my journey, or get inspired —  
